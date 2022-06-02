@@ -154,12 +154,14 @@
  "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "author": 'Орлов Марк',
+      "body": "Сложная тема",
       "postId": 12234243242
     },
     {
       "id": 2,
-      "body": "some comment2",
+      "author": 'Васильева Алиса',
+      "body": "Интересно..",
       "postId": 245534534541
     }
   ]
